@@ -68,11 +68,8 @@ over a week/month.
 - Promotions and Discounts Management
 
 ### Technical Architecture
-Frontend
 - Customer & Caregiver Apps: React Native / Flutter
 - Admin Dashboard: React.js / Next.js
-
-Backend
 - API: Node.js (Express.js) or Django (REST)
 - Database: PostgreSQL, Redis
 - Authentication: Firebase Auth / OAuth2.0
