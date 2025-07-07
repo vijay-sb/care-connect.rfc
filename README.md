@@ -71,6 +71,7 @@ over a week/month.
 Frontend
 - Customer & Caregiver Apps: React Native / Flutter
 - Admin Dashboard: React.js / Next.js
+
 Backend
 - API: Node.js (Express.js) or Django (REST)
 - Database: PostgreSQL, Redis
